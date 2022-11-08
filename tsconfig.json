@@ -1,0 +1,8 @@
+{
+ "lib": [ "es6" ],
+"target": "es5",
+ 
+  "compilerOptions": {
+    "esModuleInterop": true,
+  }
+}
